@@ -26,7 +26,7 @@ function modelLoaded()
     status = true;
     video.loop();
     video.speed(1);
-    video.volume(1);
+    video.volume(0);
 }
 
 function draw()
